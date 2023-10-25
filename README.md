@@ -1,11 +1,7 @@
 
-# Tetris
+# Tetris Gameplay
 
-The goal in the game is to reach the opposite green zone
-
-# Gameplay
-
-<img src="="auto">
+<img src="https://github.com/muratkrdl/Tetris/blob/main/Tetris-Gameplay.gif"auto">
 
 
 ## Authors
